@@ -1,0 +1,17 @@
+# Keil编译输出 
+*.axf 
+*.map 
+*.lst 
+*.bin 
+*.hex 
+*.o 
+*.d 
+ 
+# 调试文件 
+DebugConfig/ 
+RTE/ 
+*.uvguix.* 
+ 
+# 系统文件 
+Thumbs.db 
+.DS_Store 
